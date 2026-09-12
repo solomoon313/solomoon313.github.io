@@ -1,0 +1,69 @@
+primary_name: "Zihang Ma"
+secondary_name: "马梓航"
+navbar_name: "Zihang Ma"
+
+positions:
+- name: Senior Student, Tianjin University
+- name: Incoming Ph.D. Student, NLPR, CASIA
+
+
+email: "3130338300@qq.com"
+# cv_link: link-to-your-cv-file
+gscholar: R2HWuLEAAAAJ
+github: solomoon313
+# twitter: your_twitter_id  # Do not include the '@' symbol
+# wechat_qrcode: /assets/images/etc/wechat.jpg
+# wechat_prompt: >-
+#   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
+# linkedin: your-linked-in-id
+# orcid: 0000-0000-0000-0000
+
+short_bio_text_justify: false
+short_bio: >-
+  <p>
+    Hi there! I'm <strong>Zihang Ma</strong> (written as <strong>马梓航</strong> in Chinese).
+    "Ma"/"马" is my surname, which means "horse" in Chinese. "Zihang"/"梓航" is my given name.
+  </p>
+  <p>
+    Right now, I am a senior student at <a href="https://en.tju.edu.cn/" target="_blank">Tianjin University</a>
+    (<strong>TJU</strong>), majoring in
+    <a href="https://come.tju.edu.cn/info/1042/1521.htm" target="_blank">Information Management and Information Systems</a>.
+  </p>
+  <p>
+    Starting in September 2027, I will pursue a Ph.D. at the
+    <a href="https://nlpr.ia.ac.cn/en/" target="_blank">National Laboratory of Pattern Recognition</a>
+    (<strong>NLPR</strong>), <a href="http://english.ia.cas.cn/" target="_blank">Institute of Automation, Chinese Academy of Sciences</a>
+    (<strong>CASIA</strong>).
+  </p>
+  <p>
+    During my undergraduate studies, I was fortunate to be advised by
+    <a href="http://www.icdai.org/jianye.html" target="_blank">Prof. Jianye Hao</a>.
+    During my Ph.D. study, I will be advised by
+    <a href="https://rhe-web.github.io/" target="_blank">Prof. Ran He</a>.
+  </p>
+  <p>
+    My past research and engineering experiences have mainly centered on agents.
+    In my Ph.D. journey, I hope to dive deeper into the foundations of large language models
+    and contribute work with real impact.
+  </p>
+
+# portrait_url: /assets/images/photos/portrait.jpg
+# portrait_caption: >-
+#   Photo caption.
+
+education:
+- name: National Laboratory of Pattern Recognition, CASIA
+  dept: Institute of Automation, Chinese Academy of Sciences
+  position: Incoming Ph.D. Student
+  date: Starting Sep. 2027
+- name: Tianjin University
+  dept: Information Management and Information Systems
+  position: Senior Undergraduate Student
+  date: Present
+
+experience:
+- name: Working experiences
+  position: Coming soon
+  date: ""
+
+# awards:
