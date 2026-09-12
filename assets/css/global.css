@@ -88,6 +88,25 @@ div.lazy {
     font-size: 100%;
 }
 
+.publication-cover-frame {
+    width: 100%;
+    aspect-ratio: 3 / 2;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    background: #f8fafc;
+    border: 1px solid rgba(0, 0, 0, 0.06);
+    border-radius: 0.35rem;
+}
+
+.publication-cover-image {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    display: block;
+}
+
 .email-text {
     font-family: Source Code Pro, monospace;
 }
