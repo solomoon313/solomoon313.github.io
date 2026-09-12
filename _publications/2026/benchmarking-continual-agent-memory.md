@@ -9,6 +9,13 @@ abstract: >-
   A benchmark study on continual agent memory for online learning, transfer, and forgetting.
 authors:
   - Zihang Ma
+  - Jinyi Liu
+  - Hongyao Tang
+  - Yi Ma
+  - Ruitao Wang
+  - Yifu Yuan
+  - YAN ZHENG
+  - Jianye HAO
 links:
   OpenReview: https://openreview.net/forum?id=MSXbrNExax
   Code: https://github.com/solomoon313/AgentMemoryBench

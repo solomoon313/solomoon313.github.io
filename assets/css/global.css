@@ -106,3 +106,20 @@ div.lazy {
     font-weight: 700;
     letter-spacing: 0;
 }
+
+.profile-portrait {
+    border-radius: 0.35rem;
+    object-fit: cover;
+}
+
+.profile-portrait-mobile {
+    max-width: 50%;
+    aspect-ratio: 1;
+    object-fit: cover;
+}
+
+.profile-portrait-thumb {
+    width: 48px;
+    height: 48px;
+    object-fit: cover;
+}

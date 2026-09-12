@@ -8,13 +8,13 @@ positions:
 
 
 email: "3130338300@qq.com"
-# cv_link: link-to-your-cv-file
+cv_link: /assets/files/cv.pdf
 gscholar: R2HWuLEAAAAJ
 github: solomoon313
 # twitter: your_twitter_id  # Do not include the '@' symbol
-# wechat_qrcode: /assets/images/etc/wechat.jpg
-# wechat_prompt: >-
-#   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
+wechat_qrcode: /assets/images/etc/wechat.jpg
+wechat_prompt: >-
+  Please tell me your <strong>name</strong> and <strong>affiliation</strong> when adding my WeChat. Thanks!
 # linkedin: your-linked-in-id
 # orcid: 0000-0000-0000-0000
 
@@ -47,16 +47,18 @@ short_bio: >-
     and contribute work with real impact.
   </p>
 
-# portrait_url: /assets/images/photos/portrait.jpg
-# portrait_caption: >-
-#   Photo caption.
+portrait_url: /assets/images/photos/portrait.jpg
+portrait_caption: >-
+  Zihang Ma
 
 education:
 - name: National Laboratory of Pattern Recognition, CASIA
+  logo: /assets/images/badges/ucas.svg
   dept: Institute of Automation, Chinese Academy of Sciences
   position: Incoming Ph.D. Student
   date: Starting Sep. 2027
 - name: Tianjin University
+  logo: /assets/images/badges/tju.svg
   dept: Information Management and Information Systems
   position: Senior Undergraduate Student
   date: Present
