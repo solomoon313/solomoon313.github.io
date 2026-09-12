@@ -52,13 +52,13 @@ portrait_caption: >-
   Zihang Ma
 
 education:
-- name: National Laboratory of Pattern Recognition, CASIA
-  logo: /assets/images/badges/ucas.svg
+- name: National Laboratory of Pattern Recognition
+  logo: /assets/images/badges/casia.png
   dept: Institute of Automation, Chinese Academy of Sciences
   position: Incoming Ph.D. Student
   date: Starting Sep. 2027
 - name: Tianjin University
-  logo: /assets/images/badges/tju.svg
+  logo: /assets/images/badges/tju.png
   dept: Information Management and Information Systems
   position: Senior Undergraduate Student
   date: Present

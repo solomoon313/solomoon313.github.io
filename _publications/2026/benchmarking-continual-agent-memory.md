@@ -7,6 +7,7 @@ pub_last: ' <span class="badge badge-pill badge-publication badge-success">Poste
 pub_date: "2026"
 abstract: >-
   A benchmark study on continual agent memory for online learning, transfer, and forgetting.
+cover: /assets/images/covers/agent-memory-bench.png
 authors:
   - Zihang Ma
   - Jinyi Liu
